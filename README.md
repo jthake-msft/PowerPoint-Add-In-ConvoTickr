@@ -40,3 +40,5 @@ Click "Advanced" hyperlink, then click "Proceed ..." hyperlink.
 `https://appdev365.sharepoint.com/_layouts/15/WopiFrame.aspx?sourcedoc={f5fb2758-9447-4e9e-beba-8259fbb84d6a}&action=editnew&Source=https%3A%2F%2Fappdev365%2Esharepoint%2Ecom%2FSitePages%2FHome%2Easpx`
 
 Confirm that the add-in is running.
+
+GroupId = '202c77b2-5f8f-4a31-a938-7b77b351c8ed'
