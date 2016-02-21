@@ -23,7 +23,7 @@
         $.ajax({
             url: groupConversationsUrl,
             type: "GET",
-            headers: { "accept": "application/json;odata=verbose" }
+            }
          })
         .then(function(data) {
             
