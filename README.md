@@ -31,6 +31,8 @@ To run sample
 
 `https://localhost:8443/app/home/home.html`
 
+Click "Advanced" hyperlink, then click "Proceed ..." hyperlink. 
+
 3. Open up web browser and open up OneDrive from App Launcher e.g.
 
 `https://appdev365.sharepoint.com/_layouts/15/WopiFrame.aspx?sourcedoc={f5fb2758-9447-4e9e-beba-8259fbb84d6a}&action=editnew&Source=https%3A%2F%2Fappdev365%2Esharepoint%2Ecom%2FSitePages%2FHome%2Easpx`
