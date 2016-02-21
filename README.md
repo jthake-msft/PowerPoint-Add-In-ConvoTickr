@@ -27,12 +27,12 @@ To run sample
 
 `gulp serve-static`
 
-2. Open up web browser and open up OneDrive from App Launcher e.g.
+2. Open up a web browser and open up the contents of the add-in running locally on your machine and trust the locally signed SSL web site:
 
-`https://onedrive.live.com/`
+`https://localhost:8443/app/home/home.html`
 
-3. Click 'New' and 'PowerPoint Presentation'
-4. in PowerPoint Online click 'Insert' in Ribbon and select 'Office add-ins'
-5. Click on drop down arrow next to 'Manage my add-ins'
-6. Select "Upload manifest" and select 'manifest-convotickr.xml'
-7. Insert the add-in into the PowerPoint document
+3. Open up web browser and open up OneDrive from App Launcher e.g.
+
+`https://appdev365.sharepoint.com/_layouts/15/WopiFrame.aspx?sourcedoc={f5fb2758-9447-4e9e-beba-8259fbb84d6a}&action=editnew&Source=https%3A%2F%2Fappdev365%2Esharepoint%2Ecom%2FSitePages%2FHome%2Easpx`
+
+Confirm that the add-in is running.
