@@ -17,7 +17,7 @@
         //handle token
         $("#lblToken").html(token);
         
-        var groupId = 'fc669da8-bdd7-4b71-90e7-3ac5f26703b4';
+        var groupId = '202c77b2-5f8f-4a31-a938-7b77b351c8ed';
         var groupConversationsUrl = 'https://graph.microsoft.com/v1.0/groups/' + groupId + '/conversations';
         
         
