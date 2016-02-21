@@ -16,6 +16,11 @@
     .then(function (token) {
         //handle token
         $("#lblToken").html(token);
+        
+        var groupId = 'fc669da8-bdd7-4b71-90e7-3ac5f26703b4';
+        var groupConversationsUrl = 'https://graph.microsoft.com/v1.0/groups/' + groupId + '/conversations';
+        
+        
     })
     .error(function (err) {
         //handle error
