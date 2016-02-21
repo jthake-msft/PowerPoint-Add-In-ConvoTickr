@@ -12,13 +12,15 @@ Setup
 
 `git clone https://github.com/jthake/PowerPoint-Add-In-ConvoTickr.git  `
 
-2. In commmand prompt run NPM INSTALL to get all the packages
+
+2. In command prompt run NPM INSTALL to get gulp globally
+
+`npm install -g gulp bower`
+
+3. In commmand prompt run NPM INSTALL to get all the packages
 
 `npm install`
 
-3. In command prompt run NPM INSTALL to get gulp globally
-
-`npm install -g gulp`
 
 To run sample
 -------------------------------------
