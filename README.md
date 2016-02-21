@@ -16,6 +16,10 @@ Setup
 
 `npm install`
 
+3. In command prompt run NPM INSTALL to get gulp globally
+
+`npm install -g gulp`
+
 To run sample
 -------------------------------------
 
