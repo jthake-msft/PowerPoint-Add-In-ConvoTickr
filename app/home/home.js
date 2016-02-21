@@ -20,7 +20,18 @@
         var groupId = '202c77b2-5f8f-4a31-a938-7b77b351c8ed';
         var groupConversationsUrl = 'https://graph.microsoft.com/v1.0/groups/' + groupId + '/conversations';
         
-        
+        $.ajax({
+            url: groupConversationsUrl,
+            type: "GET",
+            headers: { "accept": "application/json;odata=verbose" }
+         })
+        .then(function(data) {
+            
+        })
+        .error(function(err)
+        {
+            
+        });
     })
     .error(function (err) {
         //handle error
